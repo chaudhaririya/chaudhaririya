@@ -27,11 +27,11 @@
 </div>
 </p>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari457&show_icons=true&locale=en&layout=compact" alt="tejaschaudhari457" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyachaudhari457&show_icons=true&locale=en&layout=compact" alt="riyachaudhari457" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari457&show_icons=true&locale=en" alt="tejaschaudhari457" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyachaudhari457&show_icons=true&locale=en" alt="riyachaudhari457" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari457&" alt="tejaschaudhari457" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyachaudhari457&" alt="riyachaudhari457" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
 <br/>
 <hr/>
 <div align="center">
